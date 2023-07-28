@@ -1,2 +1,10 @@
 # Network-Protocols-with-Microbit
-Implementing four different network protocols on Microbits. TCP, TCP with sliding window, Hamming error detection, Address Resolution Protocol (ARP) 
+## First Year University Assignment
+
+### Stop and Wait with ARQ
+
+### Stop and Wait with ARQ and Sliding Window
+
+### Error detection
+
+### Address Resolution Protocol (ARP)
