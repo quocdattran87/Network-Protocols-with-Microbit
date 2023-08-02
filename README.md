@@ -1,4 +1,3 @@
-# Network-Protocols-with-Microbit
 ## First Year University Assignment
 
 This requires two Microbits. One acts as the sender and the other as the receiver. For each protocol, you would upload the code into the respective microbit to see it act out the behaviour.
